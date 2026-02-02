@@ -25,8 +25,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.01*: A New Paper [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647) is available on arXiv and submitted.
-- *2025.12*: I am actively seeking Ph.D. opportunities in Operations Research and Operations Management for Fall 2026!
+- *January 2026*: A New Paper [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647) is available on arXiv and submitted.
+- *October 2025*: I am actively seeking Ph.D. opportunities in Operations Research and Operations Management for Fall 2026!
 
 
 # 💡 Publications 
@@ -38,9 +38,9 @@ redirect_from:
 - A stochastic trust-region method for unconstrained nonconvex optimization that incorporates stochastic variance-reduced gradients (SVRG) to accelerate convergence.
 
 # 📖 Education
-- *2023.09 - 2025.01*, **Boston University**, Questrom School of Business.
+- *September 2023 - January 2025*, **Boston University**, Questrom School of Business.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;*M.Sc. in Mathematical Finance & Financial Technology*
-- *2020.06 - 2023.08*, **University of California, Santa Barbara**, Department of Mathematics.
+- *June 2020 - August 2023*, **University of California, Santa Barbara**, Department of Mathematics.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
 
 
@@ -65,10 +65,10 @@ redirect_from:
 -->
 
 # 🎖 Honors and Awards
-- *2024.03* Regional Finalist & Team Captain, 2024 PRMIA Risk Management Challenge.
-- *2023.03* Dean's Honors, University of California, Santa Barbara. Winter 2023 quarter.
-- *2021.06* Dean's Honors, University of California, Santa Barbara. Spring 2021 quarter.
-- *2020.12* Dean's Honors, University of California, Santa Barbara. Fall 2020 quarter.
+- *March 2024* Regional Finalist & Team Captain, 2024 PRMIA Risk Management Challenge.
+- *March 2023* Dean's Honors, University of California, Santa Barbara. Winter 2023 quarter.
+- *June 2021* Dean's Honors, University of California, Santa Barbara. Spring 2021 quarter.
+- *December 2020* Dean's Honors, University of California, Santa Barbara. Fall 2020 quarter.
 
 
 
