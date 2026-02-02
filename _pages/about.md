@@ -37,12 +37,17 @@ redirect_from:
 
 - A stochastic trust-region method for unconstrained nonconvex optimization that incorporates stochastic variance-reduced gradients (SVRG) to accelerate convergence.
 
-# Projects
-[Classification of Cancer Tissues by Genes Based on Kolmogorov–Arnold Networks](https://www.dropbox.com/scl/fi/ma1mrdcg8ux03373547gd/Classification_of_Cancer_Tissues_by_Genes_Based_on_Kolmogorov_Arnold_Networks.pdf?rlkey=junwvynwq16bkpx1ao7509yz8&dl=0)
-</div>
-</div>
 
-[Summary of Stochastic Optimization](https://www.dropbox.com/scl/fi/vu1bldtbx3n3neaxn5fjz/Summary_of_Stochastic_Optimization.pdf?rlkey=gp8ztsaefqveqr3jeir3pxl12&dl=0)
+
+# Projects
+
+- **[Classification of Cancer Tissues by Genes Based on Kolmogorov–Arnold Networks](https://www.dropbox.com/scl/fi/ma1mrdcg8ux03373547gd/Classification_of_Cancer_Tissues_by_Genes_Based_on_Kolmogorov_Arnold_Networks.pdf?rlkey=junwvynwq16bkpx1ao7509yz8&dl=0)**  
+  A PCA–KAN pipeline for cancer tissue classification from high-dimensional gene expression data.
+
+- **[Summary of Stochastic Optimization](https://www.dropbox.com/scl/fi/vu1bldtbx3n3neaxn5fjz/Summary_of_Stochastic_Optimization.pdf?rlkey=gp8ztsaefqveqr3jeir3pxl12&dl=0)**  
+  A literature review on stochastic optimization methods, covering convergence properties, variance reduction, and practical trade-offs in large-scale and nonconvex settings.
+
+
 <!--
 </div>
 </div>
