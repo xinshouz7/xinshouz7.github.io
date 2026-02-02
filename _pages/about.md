@@ -44,7 +44,7 @@ redirect_from:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
 
 
-# Projects
+# 📂 Projects
 
 - **[Classification of Cancer Tissues by Genes Based on Kolmogorov–Arnold Networks](https://www.dropbox.com/scl/fi/ma1mrdcg8ux03373547gd/Classification_of_Cancer_Tissues_by_Genes_Based_on_Kolmogorov_Arnold_Networks.pdf?rlkey=junwvynwq16bkpx1ao7509yz8&dl=0)**  
   A PCA–KAN pipeline for cancer tissue classification from high-dimensional gene expression data.
