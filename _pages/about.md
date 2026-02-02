@@ -9,9 +9,9 @@ redirect_from:
 ---
 ## Research Interests
 
-* **Methodologies:** Data-Driven Optimization, Stochastic Control, Machine Learning, Large Language Model.
-* **Applications:** Revenue Management, Operations of AI Systems, Healthcare & Social Welfare.
-* **Focus:** At the intersection of predictive learning and prescriptive decision-making, addressing uncertainty in large-scale operational systems.
+* **Methodologies:** Data-Driven Optimization, Stochastic Optimization, Machine Learning, Artificial intelligence.
+* **Applications:** Revenue Management, Resource Allocations, Operations for AI, Healthcare & Social Welfare.
+* **Focus:** At the intersection of predictive learning and prescriptive decision-making, addressing uncertainty in operational systems.
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -25,19 +25,40 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.02*: I am actively seeking Ph.D. opportunities in Operations Research and Operations Management for Fall 2026
+- *2026.01*: A New Paper [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647) is available on arXiv and submitted.
+- *2025.12*: I am actively seeking Ph.D. opportunities in Operations Research and Operations Management for Fall 2026!
 
 
-# 📝 Publications 
+# 💡 Publications 
 
 [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647)
 
-**Xinshou Zheng**, Yuchen Fang, Javad Lavaei
+**Xinshou Zheng**\*, Yuchen Fang\*, Javad Lavaei
 
 - A stochastic trust-region method for unconstrained nonconvex optimization that incorporates stochastic variance-reduced gradients (SVRG) to accelerate convergence.
+
+# Projects
+[Classification of Cancer Tissues by Genes Based on Kolmogorov–Arnold Networks](https://www.dropbox.com/scl/fi/ma1mrdcg8ux03373547gd/Classification_of_Cancer_Tissues_by_Genes_Based_on_Kolmogorov_Arnold_Networks.pdf?rlkey=junwvynwq16bkpx1ao7509yz8&dl=0)
 </div>
 </div>
 
+[Summary of Stochastic Optimization](https://www.dropbox.com/scl/fi/vu1bldtbx3n3neaxn5fjz/Summary_of_Stochastic_Optimization.pdf?rlkey=gp8ztsaefqveqr3jeir3pxl12&dl=0)
+<!--
+</div>
+</div>
+-->
+
+# 📖 Educations
+- *2023.09 - 2025.01*, **Boston University**, Questrom School of Business.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;*M.Sc. in Mathematical Finance & Financial Technology*
+- *2020.06 - 2023.08*, **University of California, Santa Barbara**, Department of Mathematics.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
+
+<!--
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. | [[video]](https://github.com/)
+-->
 
 # 🎖 Honors and Awards
 - *2024.03* Regional Finalist & Team Captain, 2024 PRMIA Risk Management Challenge.
@@ -45,15 +66,20 @@ redirect_from:
 - *2021.06* Dean's Honors, University of California, Santa Barbara. Spring 2021 quarter.
 - *2020.12* Dean's Honors, University of California, Santa Barbara. Fall 2020 quarter.
 
-# 📖 Educations
-- *2023.09 - 2025.01*, **Boston University**, Questrom School of Business.
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;*M.Sc. in Mathematical Finance & Financial Technology*
-- *2020.09 - 2023.08*, **University of California, Santa Barbara**, Department of Mathematics.
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
 
-`` # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)``
 
-``# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.``
+# 🛠 Skills
+
+- **Programming Languages:**  
+Python, R, C++, MATLAB, SQL
+
+- **Languages:**  
+Mandarin (Native), Hokkien/Taiwanese (Fluent), English (Fluent), German (Intermediate), Cantonese (Intermediate)
+
+<!--
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
+# 💬 Notes
+- *I have been fortunate to collaborate with researchers and scholars across multiple institutions. Please feel free to reach out if you are interested in related research directions!*
