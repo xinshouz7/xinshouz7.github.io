@@ -37,6 +37,11 @@ redirect_from:
 
 - A stochastic trust-region method for unconstrained nonconvex optimization that incorporates stochastic variance-reduced gradients (SVRG) to accelerate convergence.
 
+# 📖 Education
+- *2023.09 - 2025.01*, **Boston University**, Questrom School of Business.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;*M.Sc. in Mathematical Finance & Financial Technology*
+- *2020.06 - 2023.08*, **University of California, Santa Barbara**, Department of Mathematics.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
 
 
 # Projects
@@ -52,12 +57,6 @@ redirect_from:
 </div>
 </div>
 -->
-
-# 📖 Educations
-- *2023.09 - 2025.01*, **Boston University**, Questrom School of Business.
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;*M.Sc. in Mathematical Finance & Financial Technology*
-- *2020.06 - 2023.08*, **University of California, Santa Barbara**, Department of Mathematics.
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;*B.Sc. in Applied Mathematics, Minor in Statistical Science*
 
 <!--
 # 💬 Invited Talks
