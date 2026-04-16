@@ -9,9 +9,8 @@ redirect_from:
 ---
 ## Research Interests
 
-* **Methodologies:** Data-Driven Optimization, Stochastic Optimization, Machine Learning, Artificial intelligence.
-* **Applications:** Revenue Management, Resource Allocations, Operations for AI, Healthcare & Social Welfare.
-* **Focus:** At the intersection of predictive learning and prescriptive decision-making, addressing uncertainty in operational systems.
+Optimization, Operations Management, Operations Research, Revenue Management
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -33,7 +32,7 @@ redirect_from:
 
 [TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction](https://arxiv.org/pdf/2601.14647)
 
-**Xinshou Zheng**\*, Yuchen Fang\*, Javad Lavaei
+Yuchen Fang\*,**Xinshou Zheng**\*, Javad Lavaei
 
 - A stochastic trust-region method for unconstrained nonconvex optimization that incorporates stochastic variance-reduced gradients (SVRG) to accelerate convergence.
 
